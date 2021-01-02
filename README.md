@@ -4,8 +4,15 @@ Some common latex files to create common analog circuits
 
 ## Requirements
 
+### Latex
+
 * tikz
 * circuitikz
+
+### Other
+
+* pdflatex
+* pdf2svg
 
 ## How to compile
 
@@ -37,11 +44,15 @@ $ ./buid.sh
 
 #### Active Filters
 
+##### Sallen Key
+
 <img src="./build/svg/SK_LP.svg">
 
 <img src="./build/svg/SK_BP.svg">
 
 <img src="./build/svg/SK_HP.svg">
+
+##### MFB
 
 <img src="./build/svg/MFB_LP.svg">
 
