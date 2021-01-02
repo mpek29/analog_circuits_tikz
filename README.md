@@ -28,6 +28,8 @@ $ ./buid.sh
 ### Second Orders 
 #### Passive Filters
 
+##### RLC
+
 <img src="./build/svg/RLC_LP.svg">
 
 <img src="./build/svg/RLC_BP1.svg">
@@ -35,6 +37,8 @@ $ ./buid.sh
 <img src="./build/svg/RLC_BP2.svg">
 
 <img src="./build/svg/RLC_HP.svg">
+
+##### RC-RC
 
 <img src="./build/svg/RC_RC_LP.svg">
 
