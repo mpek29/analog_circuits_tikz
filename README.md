@@ -35,3 +35,15 @@ $ ./buid.sh
 <img src="./build/svg/RC_RC_HP.svg">
 
 ### Active Filters
+
+<img src="./build/svg/SK_LP.svg">
+
+<img src="./build/svg/SK_BP.svg">
+
+<img src="./build/svg/SK_HP.svg">
+
+<img src="./build/svg/MFB_LP.svg">
+
+<img src="./build/svg/MFB_BP.svg">
+
+<img src="./build/svg/MFB_HP.svg">
