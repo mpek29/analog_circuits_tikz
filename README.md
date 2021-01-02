@@ -18,7 +18,8 @@ $ ./buid.sh
 
 ## List of filters
 
-### Passive Filters
+### Second Orders 
+#### Passive Filters
 
 <img src="./build/svg/RLC_LP.svg">
 
@@ -34,7 +35,7 @@ $ ./buid.sh
 
 <img src="./build/svg/RC_RC_HP.svg">
 
-### Active Filters
+#### Active Filters
 
 <img src="./build/svg/SK_LP.svg">
 
