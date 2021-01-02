@@ -16,9 +16,9 @@ $ cd core
 $ ./buid.sh
 ```
 
-## List of filter
+## List of filters
 
-### Passive Filter
+### Passive Filters
 
 <img src="./build/svg/RLC_LP.svg">
 
@@ -28,8 +28,10 @@ $ ./buid.sh
 
 <img src="./build/svg/RLC_HP.svg">
 
-<img src="./build/svg/RL_RC_LP.svg">
+<img src="./build/svg/RC_RC_LP.svg">
 
-<img src="./build/svg/RL_RC_BP.svg">
+<img src="./build/svg/RC_RC_BP.svg">
 
-<img src="./build/svg/RL_RC_HP.svg">
+<img src="./build/svg/RC_RC_HP.svg">
+
+### Active Filters
