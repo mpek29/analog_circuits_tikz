@@ -25,7 +25,22 @@ $ ./buid.sh
 
 ## List of filters
 
+### First Orders 
+
+#### Passive Filters
+
+<img src="./build/svg/RC_LP.svg">
+
+<img src="./build/svg/RC_HP.svg">
+
+#### Active Filters
+
+<img src="./build/svg/SP_LP.svg">
+
+<img src="./build/svg/SP_HP.svg">
+
 ### Second Orders 
+
 #### Passive Filters
 
 ##### RLC
