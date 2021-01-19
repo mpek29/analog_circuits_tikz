@@ -63,6 +63,10 @@ $ ./buid.sh
 
 #### Active Filters
 
+##### RIAA
+
+<img src="./build/svg/RIAA_LP.svg">
+
 ##### Sallen Key
 
 <img src="./build/svg/SK_LP.svg">
