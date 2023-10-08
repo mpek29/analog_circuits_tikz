@@ -5,8 +5,8 @@
 \begin{document}
 \begin{tikzpicture}
 	\draw (0,0) 
-	to[R, l=$R$,-] (3,0) 
-	to[C, l=$C$, *-] (3,-2) 
+	to[european resistor, l=$Z_{eq}$,-] (3,0) 
+	to[european resistor, l=$Z_3$, *-] (3,-2) 
 	to[short](3,-2)   node [ground] {};
 	%input
 	\draw (-0.5,0)
